@@ -34,4 +34,4 @@ A full-stack Book Store web application that allows users to view, add, edit, an
 
 ```bash
 git clone https://github.com/rahulvij020/Book-Store-Website.git
-cd book-store
+cd Book-Store-Website
